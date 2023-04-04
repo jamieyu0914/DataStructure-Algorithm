@@ -1,5 +1,5 @@
 #CH02_02
-#two-demension array
+#two-dimension array
 
 N=2
 #宣告2X2陣列arr並將所有元素指定為None
